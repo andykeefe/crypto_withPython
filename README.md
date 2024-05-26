@@ -4,7 +4,7 @@ _The Safety Patrol_ by Bisa Butler, 2018
 
 
 
-### Bray, S. (2020). Implementing Cryptography Using Python. Wiley and Sons, Inc. 
+### Bray, S. (2020). _Implementing Cryptography Using Python_. Wiley and Sons, Inc. 
 
 
 This book is perfect for applying the high-level knowledge one typically gets
